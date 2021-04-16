@@ -1,0 +1,1 @@
+Runing ```python main.py``` and ```pytest``` in the root of the project work fine.
